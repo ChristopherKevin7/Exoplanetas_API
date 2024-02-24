@@ -24,7 +24,7 @@ O NASA Explorer permite visualizar uma lista de exoplanetas e verificar informa�
 
 1. Clone o repositório para sua máquina local.
 2. Certifique-se de ter Python instalado em seu sistema.
-3. Instale as bibliotecas necessárias executando `pip install -r requirements.txt`.
+3. Instale as bibliotecas necessárias executando `pip install (nome da biblioteca)`.
 4. Execute o aplicativo usando `python main.py`.
 
 ## Como Usar
